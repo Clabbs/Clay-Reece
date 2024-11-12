@@ -1,6 +1,6 @@
 -  Wassup, I’m @Clabbs
 -  I’m interested in astronomy and astrophysics research
--  I’m currently learning how to code lmao
+-  I’m currently learning python primarily
 - 
 
 <!---
